@@ -1,0 +1,13 @@
+[
+    {
+        "name": "LK21 Official",
+        "internalName": "ExampleProvider",
+        "authors": ["travi01"],
+        "description": "Nonton Film LK21 Official",
+        "tvTypes": ["Movie"],
+        "language": "id",
+        "version": 1,
+        "url": "ExampleProvider.cs3",
+        "iconUrl": "https://upload.wikimedia.org/wikimedia/commons/2/2f/Korduene_Logo.png"
+    }
+]
